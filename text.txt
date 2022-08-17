@@ -1,2 +1,5 @@
 hi op...i am yash
-hello
+hello yash, u r my best frd
+a=10
+b=1
+print (a+b)
